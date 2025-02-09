@@ -402,6 +402,13 @@ load_dotenv()
 API_KEY = os.getenv("OPENROUTER_API_KEY")
 MEMORY_FILE = "memory.json"
 
+
+response = requests.get(
+    "https://openrouter.ai/api/v1/models",
+    headers={"Authorization": f"Bearer {API_KEY}"}
+)
+
+print(response.json()) 
 # Load memory from a JSON file
 def load_memory():
     if os.path.exists(MEMORY_FILE):
