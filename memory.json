@@ -1,0 +1,89 @@
+{
+  "name": "Avinash Kumar",
+  "location": {
+    "city": "Patna",
+    "state": "Bihar",
+    "address": "H/N 22 Vivekanand Colony"
+  },
+  "contact": {
+    "email": "avinashmadhukar4@gmail.com",
+    "phone": "+919608989499"
+  },
+  "education": {
+    "btech": {
+      "institute": "Sagar Institute of Research and Technology",
+      "degree": "BTech in Computer Science and Engineering",
+      "location": "Bhopal",
+      "cgpa": "7.95",
+      "duration": "July 2020 - July 2024"
+    },
+    "intermediate": {
+      "school": "Pratibha Pallavan Public School",
+      "percentage": "71%",
+      "duration": "July 2018 - July 2020",
+      "location": "Jahanabad"
+    },
+    "matric": {
+      "school": "Doon Global Public School",
+      "percentage": "75.6%",
+      "duration": "July 2017 - July 2018",
+      "location": "Nadwan"
+    }
+  },
+  "experience": {
+    "Bharat Intern": {
+      "role": "Java Developer",
+      "responsibilities": [
+        "Developed an online quiz application using Java",
+        "Designed interfaces for admin and student users",
+        "Implemented user registration and score management"
+      ]
+    },
+    "ZetPeak": {
+      "role": "Cyber Security Researcher",
+      "virtual_duration": "9 June 2023 - 1 July 2023",
+      "onsite_duration": "3 July 2023 - 24 Sept 2023",
+      "location": "Bengaluru, India",
+      "responsibilities": [
+        "Explored cybersecurity research tools and practices"
+      ]
+    }
+  },
+  "skills": {
+    "programming_languages": ["Java SE", "JEE"],
+    "core_competencies": [
+      "Data Structures and Algorithms (Medium Proficiency)"
+    ],
+    "tools_platforms": ["NetBeans", "VSCode", "IntelliJ IDEA"],
+    "databases": ["SQL", "Oracle"]
+  },
+  "projects": {
+    "online_quiz_application": {
+      "description": "Java-based quiz application with database connectivity",
+      "features": [
+        "Database setup for admin and student records",
+        "Implemented login authentication",
+        "Admin can add questions; students can take exams and view scores"
+      ]
+    },
+    "online_food_delivery_application": {
+      "description": "Food delivery system with security enhancements",
+      "features": [
+        "Implemented email validation",
+        "Password encryption and decryption for user security"
+      ]
+    }
+  },
+  "certifications": [
+    "Movie Ticket Booking using C - Sharma Computer Academy",
+    "YumXpress using Java - Sharma Computer Academy"
+  ],
+  "family": {
+    "brother": "Aniket Raj"
+  },
+  "social_links": {
+    "github": "GitHub Link",
+    "linkedin": "LinkedIn Link",
+    "leetcode": "LeetCode Link"
+  }
+}
